@@ -1,7 +1,7 @@
 # Race condition puppeteer tests
 **Steps to add and use test **
 1. `npm i`
-2. Add config to `modules/racecondition/testConfig.json`
+2. Add config to `modules/racecondition/testConfig.json`, for example: 
 
 ```js
 "oldsubmissioncounter": {
