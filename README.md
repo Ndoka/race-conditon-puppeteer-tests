@@ -6,7 +6,7 @@
 ```js
 "oldsubmissioncounter": {
     "url": "https://www.jotformers.com/231211490869053", //form url
-    "sessions": "10", // how many browsesr tabs to open
+    "sessions": "10", // how many browser tabs to open
     "submitBtnID": "input_2", // id selector for submit button
     "widgets": null //must be null if you do not want puppeteer to set the widget value
   }
